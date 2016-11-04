@@ -7,8 +7,7 @@ To get your project added, please submit a [pull request](https://github.com/dab
 ### Open Source React Native Apps
 
 [Den](https://github.com/asamiller/den)
-Asa Miller
-
+Asa Miller  
 iPhone app built with React Native for viewing houses for sale in the Northwest
 
 [UI Explorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)
