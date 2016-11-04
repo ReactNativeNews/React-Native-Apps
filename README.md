@@ -25,8 +25,6 @@ A simple Pomodoro timer for Exponent.
 Wang Zixiao  
 Cool NBA App written in RN
 
-[Snowflake]
-
 [UI Explorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)
 Facebook  
 The UIExplorer is a sample app that showcases React Native views and modules.
