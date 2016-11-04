@@ -6,11 +6,11 @@ To get your project added, please submit a [pull request](https://github.com/dab
 
 ### Open Source React Native Apps
 
-##### [Den](https://github.com/asamiller/den)
+[Den](https://github.com/asamiller/den)
 Asa Miller
 
-##### [UI Explorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)
+[UI Explorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)
 Facebook
 
-##### [Multiple Apps by Christopher Dro](https://github.com/christopherdro)
+[Multiple Apps by Christopher Dro](https://github.com/christopherdro)
 Christopher Dro
