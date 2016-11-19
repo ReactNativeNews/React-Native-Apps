@@ -10,16 +10,24 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 Asa Miller  
 iPhone app built with React Native for viewing houses for sale in the Northwest
 
-[Fluxpybird](https://github.com/exponentjs/fluxpybird)  
+[Floaty Plane](https://github.com/exponentjs/fluxpybird)  
 Exponent  
-Some ideas involving games and Redux
+Flappy bird, but with a paper airplane. [Try it here](https://getexponent.com/@exponent/floatyplane)
 
 [React Native for Curious People](https://github.com/exponentjs/react-native-for-curious-people)  
 Exponent
 
 [PomodoroExp](https://github.com/exponentjs/pomodoroexp)  
 Exponent  
-A simple Pomodoro timer for Exponent.
+A simple Pomodoro timer for Exponent. [Try it here](https://getexponent.com/@exponent/pomodoro)
+
+[Growler Prowler](https://github.com/brentvatne/growler-prowler)
+Exponent
+Find craft beer in Vancouver! Collect em all. Looks pretty. [Try it here](https://getexponent.com/@community/growler-prowler)
+
+[Breakout](https://github.com/brentvatne/breakout)
+Exponent
+Uses Three.js via EXGL (an implementation of WebGL for Exponent) for a semi-3d take on the classic Breakout game. Built for Exponent's internal Game Jam. [Try it here](https://getexponent.com/@community/breakout)
 
 [React Native NBA App](https://github.com/wwayne/react-native-nba-app)  
 Wang Zixiao  
@@ -29,13 +37,12 @@ Cool NBA App written in RN
 Facebook  
 The UIExplorer is a sample app that showcases React Native views and modules.
 
-
 [Multiple Apps by Christopher Dro](https://github.com/christopherdro)  
 Christopher Dro
 
-[React Native Login](https://github.com/brentvatne/react-native-login)  
+[Native Component List](https://github.com/exponentjs/native-component-list)  
 Brent Vatne  
-react-native login via native facebook sdk, with a mp4 video background and a linear gradient
+Demonstrates a variety of components built into React Native and Exponent. [Try it here](https://getexponent.com/@community/native-component-list)
 
 [React Native Github Notetaker](react-native-gh-notetaker)  
 Tyler Mcginnis  
@@ -136,7 +143,6 @@ Instagram clone. A multi-user gallery app, with file uploads.
 [Assemblies](https://github.com/buildreactnative/assemblies)  
 Build React Native  
 A developer-focused Meetup clone built with React Native
-
 
 [Reactive 2015 - Ken Wheeler](https://github.com/kenwheeler/reactive2015)  
 Ken Wheeler  
