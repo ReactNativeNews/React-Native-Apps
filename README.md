@@ -164,5 +164,10 @@ Reactive2015 Contest Entry for Reactive Conference
 Satya & Alexey
 Pokédex app for Pokémon GO
 
+[Reading](https://github.com/attentiveness/reading)  
+Richard-Cao  
+iReading App Write In React-Native（Studying and Programing）
+
+
 
 
