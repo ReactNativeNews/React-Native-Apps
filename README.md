@@ -168,6 +168,10 @@ Pokédex app for Pokémon GO
 Richard-Cao  
 iReading App Write In React-Native（Studying and Programing）
 
+[MovieApp](https://github.com/JuneDomingo/movieapp)  
+June Domingo
+Discover movies and tv shows
+
 
 
 
