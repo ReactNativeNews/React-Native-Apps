@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[React Native Sidemenu](https://github.com/darde/react-native-sidemenu)
+Darde
+A complete template for React Native apps with sidemenu.
+
 [Den](https://github.com/asamiller/den)  
 Asa Miller  
 iPhone app built with React Native for viewing houses for sale in the Northwest
@@ -175,6 +179,3 @@ Discover movies and tv shows
 [Sequent](https://github.com/sobstel/sequent)
 sobstel
 Short-term memory training game
-
-
-
