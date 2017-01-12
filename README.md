@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Status](https://status.im) ([Github](https://github.com/status-im/status-react/))  
+Status Holdings  
+A web3 browser, messenger, and gateway to a decentralised world of Ethereum. Android & iOS.
+
 [React Native Sidemenu](https://github.com/darde/react-native-sidemenu)
 Darde
 A complete template for React Native apps with sidemenu.
