@@ -183,3 +183,7 @@ Discover movies and tv shows
 [Sequent](https://github.com/sobstel/sequent)
 sobstel
 Short-term memory training game
+
+[HackerWeb](https://github.com/cheeaun/hackerweb-native)
+Lim Chee Aun
+A simply readable Hacker News app
