@@ -187,3 +187,7 @@ Short-term memory training game
 [HackerWeb](https://github.com/cheeaun/hackerweb-native)
 Lim Chee Aun
 A simply readable Hacker News app
+
+[Urban Dictionary](https://github.com/edwinbosire/Urbandict)
+Edwin Bosire
+An urban dictionary client. 
