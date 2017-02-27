@@ -168,26 +168,26 @@ Reactive2015 Contest Entry for Reactive Conference
 Alexey  
 Reactive2015 Contest Entry for Reactive Conference
 
-[PocketGear](https://github.com/satya164/PocketGear)
-Satya & Alexey
+[PocketGear](https://github.com/satya164/PocketGear)  
+Satya & Alexey  
 Pokédex app for Pokémon GO
 
 [Reading](https://github.com/attentiveness/reading)  
 Richard-Cao  
 iReading App Write In React-Native（Studying and Programing）
 
-[MovieApp](https://github.com/JuneDomingo/movieapp)  
-June Domingo
+[MovieApp](https://github.com/JuneDomingo/movieapp)   
+June Domingo  
 Discover movies and tv shows
 
-[Sequent](https://github.com/sobstel/sequent)
-sobstel
+[Sequent](https://github.com/sobstel/sequent)  
+Przemek Sobstel    
 Short-term memory training game
 
-[HackerWeb](https://github.com/cheeaun/hackerweb-native)
-Lim Chee Aun
+[HackerWeb](https://github.com/cheeaun/hackerweb-native)  
+Lim Chee Aun  
 A simply readable Hacker News app
 
-[Urban Dictionary](https://github.com/edwinbosire/Urbandict)
-Edwin Bosire
+[Urban Dictionary](https://github.com/edwinbosire/Urbandict)  
+Edwin Bosire  
 An urban dictionary client. 
