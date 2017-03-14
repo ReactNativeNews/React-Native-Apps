@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[F1 Stats](https://github.com/srdjanprpa/FormulaOne) - [Google Play Store](https://play.google.com/store/apps/details?id=com.formula1info)  
+Srdjan Prpa  
+F1 Stats for statistics drivers and teams, calendar of race and results.
+
 [Status](https://status.im) ([Github](https://github.com/status-im/status-react/))  
 Status Holdings  
 A web3 browser, messenger, and gateway to a decentralised world of Ethereum. Android & iOS.
