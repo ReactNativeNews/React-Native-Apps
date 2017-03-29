@@ -6,6 +6,11 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Daily Prices](http://ansolutions.co/prices-today) - [Google Play Store](https://play.google.com/store/apps/details?id=com.na.prices.today&hl=en)  
+ AN Solutions  
+ Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
+ 
+
 [F1 Stats](https://github.com/srdjanprpa/FormulaOne) - [Google Play Store](https://play.google.com/store/apps/details?id=com.formula1info)  
 Srdjan Prpa  
 F1 Stats for statistics drivers and teams, calendar of race and results.
