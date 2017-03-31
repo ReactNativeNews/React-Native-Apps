@@ -200,3 +200,9 @@ A simply readable Hacker News app
 [Urban Dictionary](https://github.com/edwinbosire/Urbandict)  
 Edwin Bosire  
 An urban dictionary client. 
+
+[iFLYER](https://iflyer.tv/en/article/2017/02/23/iflyer-app-2017/)
+iFLYER
+The official app for iFLYER; Japan's biggest source for music news, festival, club and concert information.
+
+
