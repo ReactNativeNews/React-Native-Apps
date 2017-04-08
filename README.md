@@ -200,3 +200,7 @@ A simply readable Hacker News app
 [Urban Dictionary](https://github.com/edwinbosire/Urbandict)  
 Edwin Bosire  
 An urban dictionary client. 
+
+[React Native Netflix](https://github.com/mariodev12/react-native-netflix)
+Mario Diez
+Netflix App clone
