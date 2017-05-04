@@ -201,10 +201,10 @@ A simply readable Hacker News app
 Edwin Bosire  
 An urban dictionary client. 
 
-[React Native Netflix](https://github.com/mariodev12/react-native-netflix)
-Mario Diez
+[React Native Netflix](https://github.com/mariodev12/react-native-netflix)  
+Mario Diez  
 Netflix App clone
 
-[Location Saver](https://github.com/vaskort/react-native)  
-Vasilis Kortsimelidis
+[Location Saver](https://github.com/vaskort/react-native)    
+Vasilis Kortsimelidis  
 Save your location and get directions to it later. [Google Play link](https://play.google.com/store/apps/details?id=com.locationsaver)
