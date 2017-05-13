@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Maximums](https://appsto.re/us/26_Fjb.i)
+In this game you have to find the maximum color and points
+
+
 [Daily Prices](http://ansolutions.co/prices-today) - [Google Play Store](https://play.google.com/store/apps/details?id=com.na.prices.today&hl=en)  
  AN Solutions  
  Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
