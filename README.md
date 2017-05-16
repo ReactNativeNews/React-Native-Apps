@@ -213,3 +213,9 @@ A carpooling app designed for students to help each other get more involved in t
 Vasilis Kortsimelidis  
 Save your location and get directions to it later. [Google Play link](https://play.google.com/store/apps/details?id=com.locationsaver)
 
+[Bienenvölker](https://www.ibeekeeper.de) iOS & Android    
+Marcel Gläser    
+App for beehives and the beehive cards from the company iBeekeeper. The beekeeper app is a part from the web application. 
+[Google Android Bienenvölker](https://play.google.com/store/apps/details?id=de.iBeekeeper.Beehives) - 
+[Apple AppStore Bienenvölker](https://itunes.apple.com/de/app/bienenvölker/id1198119768?mt=8)
+
