@@ -216,3 +216,7 @@ Save your location and get directions to it later. [Google Play link](https://pl
 [Thousanday - Homepage for pets](https://github.com/byn9826/Thousanday-Mobile)    
 Paul Bao  
 Photo sharing social app for pets (Instagram/Facebook for pets). [Google Play](https://play.google.com/store/apps/details?id=com.thousanday)
+
+[Clean Timetable](https://github.com/Dennitz/Timetable) - [App Store](https://itunes.apple.com/us/app/clean-timetable/id1242105557?mt=8)  
+Dennis Hellweg  
+Clean and simple timetable app for iOS.
