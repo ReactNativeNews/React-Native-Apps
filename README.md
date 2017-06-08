@@ -9,7 +9,7 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 [Daily Prices](http://ansolutions.co/prices-today) - [Google Play Store](https://play.google.com/store/apps/details?id=com.na.prices.today&hl=en)  
  AN Solutions  
  Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
- 
+
 
 [F1 Stats](https://github.com/srdjanprpa/FormulaOne) - [Google Play Store](https://play.google.com/store/apps/details?id=com.formula1info)  
 Srdjan Prpa  
@@ -199,7 +199,7 @@ A simply readable Hacker News app
 
 [Urban Dictionary](https://github.com/edwinbosire/Urbandict)  
 Edwin Bosire  
-An urban dictionary client. 
+An urban dictionary client.
 
 [React Native Netflix](https://github.com/mariodev12/react-native-netflix)  
 Mario Diez  
@@ -220,3 +220,7 @@ Photo sharing social app for pets (Instagram/Facebook for pets). [Google Play](h
 [Clean Timetable](https://github.com/Dennitz/Timetable) - [App Store](https://itunes.apple.com/us/app/clean-timetable/id1242105557?mt=8)  
 Dennis Hellweg  
 Clean and simple timetable app for iOS.
+
+[Roxie](https://github.com/venepe/react-native-roxie)  
+Vernon Pearson
+Rejoice hackers and makers! A music library that talks to your bluetooth devices
