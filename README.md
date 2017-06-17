@@ -35,6 +35,9 @@ A complete template for React Native apps with sidemenu.
 Asa Miller  
 iPhone app built with React Native for viewing houses for sale in the Northwest
 
+[Feline for Product Hunt](https://github.com/arjunkomath/Feline-for-Product-Hunt/)  
+A beautiful, Open Source unofficial Android app for Product Hunt. [Try it here](https://expo.io/@community/feline)
+
 [Floaty Plane](https://github.com/exponentjs/fluxpybird)  
 Exponent  
 Flappy bird, but with a paper airplane. [Try it here](https://getexponent.com/@exponent/floatyplane)
