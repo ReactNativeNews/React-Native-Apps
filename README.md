@@ -236,4 +236,10 @@ Clean and simple timetable app for iOS.
 Vernon Pearson
 Rejoice hackers and makers! A music library that talks to your bluetooth devices
 
+[Gitter Mobile](https://github.com/JSSolutions/GitterMobile)  
+[JSSolutions](https://github.com/JSSolutions/)  
+Unofficial Gitter.im (chat for GitHub) client for iOS and Android, [read more](https://jssolutionsdev.com/portfolio/gitter/) 
 
+[Perfi](https://github.com/JSSolutions/Perfi)  
+[JSSolutions](https://github.com/JSSolutions/)  
+Personal finance assistance, [read more](https://jssolutionsdev.com/portfolio/perfi/)
