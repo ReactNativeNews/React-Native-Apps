@@ -6,10 +6,14 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+
+[Chain React Conf](https://github.com/infinitered/ChainReactApp) by Infinite Red - Official Conference App for the [Chain React Conference](https://infinite.red/ChainReactConf)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
+* [iTunes Store](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
+
+
 [ComicBook](https://github.com/liyuechun/ComicBook)
-
 liyuechun
-
 Cool comic books, supporting iOS and Android.
 
 
