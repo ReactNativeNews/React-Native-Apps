@@ -238,8 +238,12 @@ Rejoice hackers and makers! A music library that talks to your bluetooth devices
 
 [Gitter Mobile](https://github.com/JSSolutions/GitterMobile)  
 [JSSolutions](https://github.com/JSSolutions/)  
-Unofficial Gitter.im (chat for GitHub) client for iOS and Android, [read more](https://jssolutionsdev.com/portfolio/gitter/) 
+Unofficial Gitter.im (chat for GitHub) client for iOS and Android, [read more](https://jssolutionsdev.com/portfolio/gitter/)
 
 [Perfi](https://github.com/JSSolutions/Perfi)  
 [JSSolutions](https://github.com/JSSolutions/)  
 Personal finance assistance, [read more](https://jssolutionsdev.com/portfolio/perfi/)
+
+[SplitCloud](https://bitbucket.org/edellorbo/splitcloud/overview) - [App Store](https://itunes.apple.com/us/app/splitcloud/id1244515007?mt=8)  
+Giulio Dellorbo  
+Double Music player - share your headphones and play two different tracks from SoundCloud® using one device.
