@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[ndash](https://github.com/alexindigo/ndash) - your npm dashboard!
+* [iTunes Store](https://appsto.re/us/nY9Sib.i)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.ndash)
+
 
 [Chain React Conf](https://github.com/infinitered/ChainReactApp) by Infinite Red - Official Conference App for the [Chain React Conference](https://infinite.red/ChainReactConf)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
