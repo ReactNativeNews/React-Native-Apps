@@ -43,6 +43,10 @@ A complete template for React Native apps with sidemenu.
 Asa Miller  
 iPhone app built with React Native for viewing houses for sale in the Northwest
 
+[DuckDuckGo (Unofficial)](https://github.com/kiok46/duckduckgo)
+Kuldeep Singh
+Unofficial DuckDuckGo App in React-Native.
+
 [Feline for Product Hunt](https://github.com/arjunkomath/Feline-for-Product-Hunt/)  
 A beautiful, Open Source unofficial Android app for Product Hunt. [Try it here](https://expo.io/@community/feline)
 
@@ -246,7 +250,7 @@ Rejoice hackers and makers! A music library that talks to your bluetooth devices
 
 [Gitter Mobile](https://github.com/JSSolutions/GitterMobile)  
 [JSSolutions](https://github.com/JSSolutions/)  
-Unofficial Gitter.im (chat for GitHub) client for iOS and Android, [read more](https://jssolutionsdev.com/portfolio/gitter/) 
+Unofficial Gitter.im (chat for GitHub) client for iOS and Android, [read more](https://jssolutionsdev.com/portfolio/gitter/)
 
 [Perfi](https://github.com/JSSolutions/Perfi)  
 [JSSolutions](https://github.com/JSSolutions/)  
