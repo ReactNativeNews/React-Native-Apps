@@ -84,7 +84,7 @@ Christopher Dro
 Brent Vatne  
 Demonstrates a variety of components built into React Native and Exponent. [Try it here](https://getexponent.com/@community/native-component-list)
 
-[React Native Github Notetaker](react-native-gh-notetaker)  
+[React Native Github Notetaker](https://github.com/tylermcginnis/react-native-gh-notetaker)
 Tyler Mcginnis  
 React Native app using the Github API
 
