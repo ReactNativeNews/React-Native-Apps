@@ -27,6 +27,9 @@ Cool comic books, supporting iOS and Android.
  Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
 
 
+[What the Thing?](https://github.com/vigzmv/what_the_thing) -  Point camera at things to learn how to say them in a different language.
+
+
 [F1 Stats](https://github.com/srdjanprpa/FormulaOne) - [Google Play Store](https://play.google.com/store/apps/details?id=com.formula1info)  
 Srdjan Prpa  
 F1 Stats for statistics drivers and teams, calendar of race and results.
