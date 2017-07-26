@@ -50,6 +50,9 @@ iPhone app built with React Native for viewing houses for sale in the Northwest
 Kuldeep Singh
 Unofficial DuckDuckGo App in React-Native.
 
+[SwipeHunt for Product Hunt](https://github.com/notifme/swipehunt)
+A fun minimalistic unofficial client for Product Hunt. crna + expo + native-base
+
 [Feline for Product Hunt](https://github.com/arjunkomath/Feline-for-Product-Hunt/)  
 A beautiful, Open Source unofficial Android app for Product Hunt. [Try it here](https://expo.io/@community/feline)
 
