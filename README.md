@@ -265,3 +265,6 @@ Personal finance assistance, [read more](https://jssolutionsdev.com/portfolio/pe
 [SplitCloud](https://bitbucket.org/edellorbo/splitcloud/overview) - [App Store](https://itunes.apple.com/us/app/splitcloud/id1244515007?mt=8)  
 Giulio Dellorbo  
 Double Music player - share your headphones and play two different tracks from SoundCloud® using one device.
+
+[GitPoint](https://github.com/gitpoint/git-point) - [Google Play](https://play.google.com/store/apps/details?id=com.gitpoint), [iTunes](https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8)  
+A beautiful mobile GitHub client for both iOS and Android.
