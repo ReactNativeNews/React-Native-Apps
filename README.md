@@ -268,3 +268,7 @@ Double Music player - share your headphones and play two different tracks from S
 
 [GitPoint](https://github.com/gitpoint/git-point) - [Google Play](https://play.google.com/store/apps/details?id=com.gitpoint), [iTunes](https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8)  
 A beautiful mobile GitHub client for both iOS and Android.
+
+[PxView](https://github.com/alphasp/pxview) - [Google Play](https://play.google.com/store/apps/details?id=com.utopia.pxview)   
+HK Kuah   
+An unofficial Pixiv app client for Android and iOS
