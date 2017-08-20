@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Livevents](https://livevents.io) - Make Your Events More Engaging!
+* [iTunes Store](https://itunes.apple.com/in/app/livevents/id1235671522?mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.infinitelooptech.celebrator&hl=en)
+
 [ndash](https://github.com/alexindigo/ndash) - your npm dashboard!
 * [iTunes Store](https://appsto.re/us/nY9Sib.i)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.ndash)
