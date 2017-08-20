@@ -6,10 +6,18 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[ndash](https://github.com/alexindigo/ndash) - your npm dashboard!
+* [iTunes Store](https://appsto.re/us/nY9Sib.i)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.ndash)
+
+
+[Chain React Conf](https://github.com/infinitered/ChainReactApp) by Infinite Red - Official Conference App for the [Chain React Conference](https://infinite.red/ChainReactConf)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
+* [iTunes Store](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
+
+
 [ComicBook](https://github.com/liyuechun/ComicBook)
-
 liyuechun
-
 Cool comic books, supporting iOS and Android.
 
 
@@ -17,6 +25,9 @@ Cool comic books, supporting iOS and Android.
 [Daily Prices](http://ansolutions.co/prices-today) - [Google Play Store](https://play.google.com/store/apps/details?id=com.na.prices.today&hl=en)  
  AN Solutions  
  Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
+
+
+[What the Thing?](https://github.com/vigzmv/what_the_thing) -  Point camera at things to learn how to say them in a different language.
 
 
 [F1 Stats](https://github.com/srdjanprpa/FormulaOne) - [Google Play Store](https://play.google.com/store/apps/details?id=com.formula1info)  
@@ -34,6 +45,13 @@ A complete template for React Native apps with sidemenu.
 [Den](https://github.com/asamiller/den)  
 Asa Miller  
 iPhone app built with React Native for viewing houses for sale in the Northwest
+
+[DuckDuckGo (Unofficial)](https://github.com/kiok46/duckduckgo)
+Kuldeep Singh
+Unofficial DuckDuckGo App in React-Native.
+
+[SwipeHunt for Product Hunt](https://github.com/notifme/swipehunt)
+A fun minimalistic unofficial client for Product Hunt. crna + expo + native-base
 
 [Feline for Product Hunt](https://github.com/arjunkomath/Feline-for-Product-Hunt/)  
 A beautiful, Open Source unofficial Android app for Product Hunt. [Try it here](https://expo.io/@community/feline)
@@ -72,7 +90,7 @@ Christopher Dro
 Brent Vatne  
 Demonstrates a variety of components built into React Native and Exponent. [Try it here](https://getexponent.com/@community/native-component-list)
 
-[React Native Github Notetaker](react-native-gh-notetaker)  
+[React Native Github Notetaker](https://github.com/tylermcginnis/react-native-gh-notetaker)
 Tyler Mcginnis  
 React Native app using the Github API
 
@@ -238,7 +256,7 @@ Rejoice hackers and makers! A music library that talks to your bluetooth devices
 
 [Gitter Mobile](https://github.com/JSSolutions/GitterMobile)  
 [JSSolutions](https://github.com/JSSolutions/)  
-Unofficial Gitter.im (chat for GitHub) client for iOS and Android, [read more](https://jssolutionsdev.com/portfolio/gitter/) 
+Unofficial Gitter.im (chat for GitHub) client for iOS and Android, [read more](https://jssolutionsdev.com/portfolio/gitter/)
 
 [Perfi](https://github.com/JSSolutions/Perfi)  
 [JSSolutions](https://github.com/JSSolutions/)  
@@ -247,3 +265,10 @@ Personal finance assistance, [read more](https://jssolutionsdev.com/portfolio/pe
 [SplitCloud](https://bitbucket.org/edellorbo/splitcloud/overview) - [App Store](https://itunes.apple.com/us/app/splitcloud/id1244515007?mt=8)  
 Giulio Dellorbo  
 Double Music player - share your headphones and play two different tracks from SoundCloud® using one device.
+
+[GitPoint](https://github.com/gitpoint/git-point) - [Google Play](https://play.google.com/store/apps/details?id=com.gitpoint), [iTunes](https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8)  
+A beautiful mobile GitHub client for both iOS and Android.
+
+[PxView](https://github.com/alphasp/pxview) - [Google Play](https://play.google.com/store/apps/details?id=com.utopia.pxview)   
+HK Kuah   
+An unofficial Pixiv app client for Android and iOS
