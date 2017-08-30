@@ -276,3 +276,7 @@ A beautiful mobile GitHub client for both iOS and Android.
 [PxView](https://github.com/alphasp/pxview) - [Google Play](https://play.google.com/store/apps/details?id=com.utopia.pxview)   
 HK Kuah   
 An unofficial Pixiv app client for Android and iOS
+
+[Ruk-A-Tuk](https://github.com/akilb/rukatuk-mobile) - [Google Play](https://play.google.com/store/apps/details?id=com.rukatuk.app&hl=en_GB), [iTunes](https://itunes.apple.com/us/app/ruk-a-tuk/id1273614449?ls=1&mt=8)  
+Akil Burgess  
+The official app for Ruk-A-Tuk Promotions - London's most innovative Caribbean themed parties!
