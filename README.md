@@ -93,9 +93,9 @@ Uses Three.js via EXGL (an implementation of WebGL for Exponent) for a semi-3d t
 Wang Zixiao  
 Cool NBA App written in RN
 
-[UI Explorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)  
+[RNTester](https://github.com/facebook/react-native/tree/master/RNTester)  
 Facebook  
-The UIExplorer is a sample app that showcases React Native views and modules.
+The RNTester showcases React Native views and modules.
 
 [Multiple Apps by Christopher Dro](https://github.com/christopherdro)  
 Christopher Dro
