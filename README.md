@@ -28,6 +28,9 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
 * [iTunes Store](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
 
+[Hacker Buzz](https://github.com/RCiesielczuk/HackerBuzz-ReactNative) - A Hacker News Reader App
+* [iTunes Store](https://itunes.apple.com/app/hacker-buzz/id1292825792?mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.hackerbuzz)
 
 [ComicBook](https://github.com/liyuechun/ComicBook)
 liyuechun
