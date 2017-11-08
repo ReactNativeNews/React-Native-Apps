@@ -6,6 +6,11 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Pocat](https://github.com/rotembcohen/pokerBuddyApp) - Organize casual poker games
+* [Exponent](https://expo.io/@rotembcohen/pocat)
+* [iTunes Store](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.hecodesthings.pocat)
+
 [Cryptobullography](https://github.com/WebStew/bullet) - Cryptocurrency converter, manager and tracker.
 * [Exponent](https://expo.io/@terminalpunk/bullet)
 * [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
