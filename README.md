@@ -301,3 +301,9 @@ An unofficial Pixiv app client for Android and iOS
 [Ruk-A-Tuk](https://github.com/akilb/rukatuk-mobile) - [Google Play](https://play.google.com/store/apps/details?id=com.rukatuk.app&hl=en_GB), [iTunes](https://itunes.apple.com/us/app/ruk-a-tuk/id1273614449?ls=1&mt=8)  
 Akil Burgess  
 The official app for Ruk-A-Tuk Promotions - London's most innovative Caribbean themed parties!
+
+[Space Weather App](https://www.spaceweatherapp.com) - get real-time information on the Sun and its effects on planet Earth. 
+* [iTunes](https://itunes.apple.com/us/app/space-weather-app/id970840970)
+* [Google Play](https://play.google.com/store/apps/details?id=com.stellar_north.SpaceWeather)
+* [Windows](https://www.microsoft.com/en-us/store/p/space-weather/9nblggh187v8?rtc=1)
+
