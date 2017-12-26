@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Facebook F8 App](https://github.com/fbsamples/f8app) - Facebook Official F8 Open Source App
+* [iTunes Store](https://itunes.apple.com/us/app/f8/id853467066)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.facebook.f8)
+
 [Hide The Notch](https://github.com/MoOx/HideTheNotch) - An wallpaper app to hide the iPhone X notch
 * [iTunes Store](https://itunes.apple.com/us/app/hide-the-notch/id1312839983?ls=1&mt=8)
 
