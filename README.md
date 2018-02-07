@@ -44,6 +44,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 * [iTunes Store](https://itunes.apple.com/app/hacker-buzz/id1292825792?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.hackerbuzz)
 
+[Joplin](https://github.com/laurent22/joplin) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+* [iTunes Store](https://itunes.apple.com/us/app/joplin/id1315599797?mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=net.cozic.joplin)
+
 [ComicBook](https://github.com/liyuechun/ComicBook)
 liyuechun
 Cool comic books, supporting iOS and Android.
