@@ -316,3 +316,7 @@ React Native app/version of Noisli's core functionality! [Read more](https://med
 
 [thecatnatice](https://github.com/punksta/thecatnative) - [Google Play](https://play.google.com/store/apps/details?id=com.punksta.apps.kitties)   
 The http://thecatapi.com/ unofficial client. Random cat photos and gifs feed.
+
+[MEHNEWS](https://github.com/fromtexas/react-native-news-app) <br/> 
+[Veskelen](https://github.com/fromtexas) <br/>
+Get breaking news headlines with short description filtered by your interests and country preferences.
