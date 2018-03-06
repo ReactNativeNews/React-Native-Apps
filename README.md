@@ -324,3 +324,7 @@ Get breaking news headlines with short description filtered by your interests an
 [Zulip Mobile](https://github.com/zulip/zulip-mobile) - The official mobile client for Zulip - powerful open source team chat.
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.zulipmobile)
 * [iTunes Store](https://itunes.apple.com/us/app/zulip/id1203036395)
+
+[Mattermost Mobile Applications](https://github.com/mattermost/mattermost-mobile) - The official React Native mobile clients for Mattermost an open source workplace messaging solution.
+* [iOS](http://about.mattermost.com/mattermost-ios-app/)
+* [Android](http://about.mattermost.com/mattermost-android-app/)
