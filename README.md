@@ -329,6 +329,6 @@ Get breaking news headlines with short description filtered by your interests an
 * [iOS](http://about.mattermost.com/mattermost-ios-app/)
 * [Android](http://about.mattermost.com/mattermost-android-app/)
 
-[Online Wallpapers](https://onlinewallpapers.github.io) <br />
+[Online Wallpapers](https://github.com/mrf345/online-wallpapers) <br />
 [Mohamed Feddad](https://github.com/mrf345) <br />
 Android wallpapers manager built with react-native and utlizes reddit api.
