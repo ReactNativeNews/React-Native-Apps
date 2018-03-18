@@ -328,3 +328,7 @@ Get breaking news headlines with short description filtered by your interests an
 [Mattermost Mobile Applications](https://github.com/mattermost/mattermost-mobile) - The official React Native mobile clients for Mattermost an open source workplace messaging solution.
 * [iOS](http://about.mattermost.com/mattermost-ios-app/)
 * [Android](http://about.mattermost.com/mattermost-android-app/)
+
+[Online Wallpapers](https://github.com/mrf345/online-wallpapers) <br />
+[Mohamed Feddad](https://github.com/mrf345) <br />
+Android wallpapers manager built with react-native and utlizes reddit api.
