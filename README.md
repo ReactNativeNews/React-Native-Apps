@@ -332,3 +332,7 @@ Get breaking news headlines with short description filtered by your interests an
 [Online Wallpapers](https://github.com/mrf345/online-wallpapers) <br />
 [Mohamed Feddad](https://github.com/mrf345) <br />
 Android wallpapers manager built with react-native and utlizes reddit api.
+
+[RebelGamer Mobile App](https://github.com/Mokkapps/rebelgamer-mobile-app) <br />
+[Mokkapps](https://github.com/Mokkapps) <br />
+Mobile app for the gaming blog www.rebelgamer.de.
