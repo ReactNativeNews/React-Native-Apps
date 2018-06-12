@@ -336,3 +336,7 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 [RebelGamer Mobile App](https://github.com/Mokkapps/rebelgamer-mobile-app) <br />
 [Mokkapps](https://github.com/Mokkapps) <br />
 Mobile app for the gaming blog www.rebelgamer.de.
+
+[Pride in London App](https://github.com/redbadger/pride-london-app) - Official events app for Pride in London
+* [iTunes Store](https://itunes.apple.com/gb/app/pride-in-london/id1250496471)
+* [Google Play Store](https://play.google.com/store/apps/details?id=org.prideinlondon.festival)
