@@ -13,6 +13,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 [Hide The Notch](https://github.com/MoOx/HideTheNotch) - An wallpaper app to hide the iPhone X notch
 * [iTunes Store](https://itunes.apple.com/us/app/hide-the-notch/id1312839983?ls=1&mt=8)
 
+[RSG Chess](https://github.com/RSG-Group/RSG-Chess-mobile) - Open source chess game built from scratch for the [web](http://rsg-chess.now.sh) and adapted for Android using React Native
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.rsg.chess)
+* [Amazon AppStore](https://www.amazon.com/RSG-Group-Chess/dp/B07D1KWTK7)
+
 [Pocat](https://github.com/rotembcohen/pokerBuddyApp) - Organize casual poker games
 * [Exponent](https://expo.io/@rotembcohen/pocat)
 * [iTunes Store](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
