@@ -27,6 +27,12 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 * [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
 
+[Equation Solver](https://github.com/ebouJ/Equation-Solver) - 
+A cross-platform equation solver that solves linear, quadratic,  and cubic equation. Also solves two and three variables simultaneous equation. Heavily typed with typescript.
+
+* [iTunes Store](https://itunes.apple.com/us/app/equation-solver/id1420956198?mt=8)
+
+
 [Boostnote Mobile](https://github.com/BoostIO/boostnote-mobile) - Markdown notepad for programmers!
 * [iTunes Store](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=io.boostnote)
