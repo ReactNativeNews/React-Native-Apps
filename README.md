@@ -353,3 +353,6 @@ Mobile app for the gaming blog www.rebelgamer.de.
 [Pride in London App](https://github.com/redbadger/pride-london-app) - Official events app for Pride in London
 * [iTunes Store](https://itunes.apple.com/gb/app/pride-in-london/id1250496471)
 * [Google Play Store](https://play.google.com/store/apps/details?id=org.prideinlondon.festival)
+
+[Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates, Currency converter mobile app using ReactNative
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.forexrates)
