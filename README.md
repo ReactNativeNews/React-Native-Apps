@@ -346,9 +346,9 @@ Get breaking news headlines with short description filtered by your interests an
 [Mohamed Feddad](https://github.com/mrf345) <br />
 Android wallpapers manager built with react-native and utlizes reddit api.
 
-[RebelGamer Mobile App](https://github.com/Mokkapps/rebelgamer-mobile-app) <br />
-[Mokkapps](https://github.com/Mokkapps) <br />
-Mobile app for the gaming blog www.rebelgamer.de.
+[RebelGamer Mobile App](https://github.com/Mokkapps/rebelgamer-mobile-app) - Mobile app for the gaming blog www.rebelgamer.de
+* [iOS](https://itunes.apple.com/de/app/rebelgamer-news-f%C3%BCr-gamer/id1187403828?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=de.rebelgamer.RebelGamerRSS)
 
 [Pride in London App](https://github.com/redbadger/pride-london-app) - Official events app for Pride in London
 * [iTunes Store](https://itunes.apple.com/gb/app/pride-in-london/id1250496471)
@@ -356,3 +356,7 @@ Mobile app for the gaming blog www.rebelgamer.de.
 
 [Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates, Currency converter mobile app using ReactNative
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.forexrates)
+
+[Parents Soundboard](https://github.com/Mokkapps/parents-soundboard) - A soundboard developed for parents to be able to play often needed phrases like "No" 
+* [Android](https://play.google.com/store/apps/details?id=de.mokkapps.parentssoundboard)
+* [iOS](https://itunes.apple.com/us/app/parents-soundboard/id1434425575?mt=8)
