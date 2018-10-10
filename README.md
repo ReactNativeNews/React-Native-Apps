@@ -6,6 +6,9 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Nic or Not](https://github.com/gantman/nicornot) - Detect Nic Cage - http://nicornot.com
+* [iTunes Store](https://itunes.apple.com/us/app/nic-or-not/id1437819644?ls=1&mt=8)
+
 [Facebook F8 App](https://github.com/fbsamples/f8app) - Facebook Official F8 Open Source App
 * [iTunes Store](https://itunes.apple.com/us/app/f8/id853467066)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.facebook.f8)
