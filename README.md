@@ -30,7 +30,7 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 * [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
 
-[Equation Solver](https://github.com/ebouJ/Equation-Solver) - 
+[Equation Solver](https://github.com/ebouJ/Equation-Solver) -
 A cross-platform equation solver that solves linear, quadratic,  and cubic equation. Also solves two and three variables simultaneous equation. Heavily typed with typescript.
 
 * [iTunes Store](https://itunes.apple.com/us/app/equation-solver/id1420956198?mt=8)
@@ -326,14 +326,14 @@ An unofficial Pixiv app client for Android and iOS
 Akil Burgess  
 The official app for Ruk-A-Tuk Promotions - London's most innovative Caribbean themed parties!
 
-[Musicly](https://github.com/saru2020/Musicly) <br/> 
+[Musicly](https://github.com/saru2020/Musicly) <br/>
 [Saravanan](https://github.com/saru2020) <br/>
 React Native app/version of Noisli's core functionality! [Read more](https://medium.com/@saruiosdev/musicly-noisli-in-react-native-efd14023bd7c)
 
 [thecatnatice](https://github.com/punksta/thecatnative) - [Google Play](https://play.google.com/store/apps/details?id=com.punksta.apps.kitties)   
 The http://thecatapi.com/ unofficial client. Random cat photos and gifs feed.
 
-[MEHNEWS](https://github.com/fromtexas/react-native-news-app) <br/> 
+[MEHNEWS](https://github.com/fromtexas/react-native-news-app) <br/>
 [Veskelen](https://github.com/fromtexas) <br/>
 Get breaking news headlines with short description filtered by your interests and country preferences.
 
@@ -360,9 +360,14 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 [Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates, Currency converter mobile app using ReactNative
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.forexrates)
 
-[Parents Soundboard](https://github.com/Mokkapps/parents-soundboard) - A soundboard developed for parents to be able to play often needed phrases like "No" 
+[Parents Soundboard](https://github.com/Mokkapps/parents-soundboard) - A soundboard developed for parents to be able to play often needed phrases like "No"
 * [Android](https://play.google.com/store/apps/details?id=de.mokkapps.parentssoundboard)
 * [iOS](https://itunes.apple.com/us/app/parents-soundboard/id1434425575?mt=8)
 
 
 [Audiobook app](https://github.com/minhtc/sachnoiapp) - A completed audiobook app with some cool animations
+
+[Arxiv Papers](https://lopespm.github.io/arxiv-papers-mobile) - ArXiv Papers is a mobile application to search, download and save arXiv papers.
+  * [Google Play Store](https://play.google.com/store/apps/details?id=com.rockbyte.arxiv)
+  * [F-Droid Store](https://f-droid.org/packages/com.rockbyte.arxiv)
+  * [Source on github](https://github.com/lopespm/arxiv-papers-mobile)
