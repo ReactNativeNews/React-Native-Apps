@@ -367,6 +367,9 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 
 [Audiobook app](https://github.com/minhtc/sachnoiapp) - A completed audiobook app with some cool animations
 
+[eLadder](https://github.com/bastiRe/eladder) - eLadder is an app to create leagues for Fifa, foosball or similar games. Games can be tracked and players are rated by a custom ELO-system.
+* [iTunes Store](https://itunes.apple.com/de/app/eladder/id1109846671?l=en&mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=de.sebastianrehm.eladder&hl=en)
 
 [Dronk](https://github.com/tiaanduplessis/dronk) - A social drinking game
 
@@ -374,4 +377,5 @@ Android wallpapers manager built with react-native and utlizes reddit api.
   * [Google Play Store](https://play.google.com/store/apps/details?id=com.rockbyte.arxiv)
   * [F-Droid Store](https://f-droid.org/packages/com.rockbyte.arxiv)
   * [Source on github](https://github.com/lopespm/arxiv-papers-mobile)
+
 
