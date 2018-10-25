@@ -378,4 +378,6 @@ Android wallpapers manager built with react-native and utlizes reddit api.
   * [F-Droid Store](https://f-droid.org/packages/com.rockbyte.arxiv)
   * [Source on github](https://github.com/lopespm/arxiv-papers-mobile)
 
+[Kitty Rescue](https://github.com/marrionluaka/KittyRescue) - Kitty Rescue is an innovative and fun matching game for all ages to enjoy!
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.kittyrescue)
 
