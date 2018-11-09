@@ -6,6 +6,9 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[LBRY](https://github.com/lbryio/lbry-android) - [LBRY](https://lbry.io) is a free, open, and community-run digital marketplace.
+  * [Google Play Store](https://play.google.com/store/apps/details?id=io.lbry.browser)
+
 [Nic or Not](https://github.com/gantman/nicornot) - Detect Nic Cage - http://nicornot.com
 * [iTunes Store](https://itunes.apple.com/us/app/nic-or-not/id1437819644?ls=1&mt=8)
 
