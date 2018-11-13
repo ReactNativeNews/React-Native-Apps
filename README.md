@@ -6,6 +6,8 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
+
 [LBRY](https://github.com/lbryio/lbry-android) - [LBRY](https://lbry.io) is a free, open, and community-run digital marketplace.
   * [Google Play Store](https://play.google.com/store/apps/details?id=io.lbry.browser)
 
