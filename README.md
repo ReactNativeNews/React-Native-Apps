@@ -389,3 +389,7 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 [Kitty Rescue](https://github.com/marrionluaka/KittyRescue) - Kitty Rescue is an innovative and fun matching game for all ages to enjoy!
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.kittyrescue)
 
+[Hydropuzzle](https://www.hydropuzzle.com/) - Stylish puzzle adventure
+  * [App Store](https://itunes.apple.com/app/id1294812505?mt=8)
+  * [Google Play Store](https://play.google.com/store/apps/details?id=org.sobstel.hydropuzzle)
+  * [Source on github](https://github.com/hydropuzzle/hydropuzzle)
