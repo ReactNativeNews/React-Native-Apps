@@ -18,6 +18,11 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 * [iTunes Store](https://itunes.apple.com/us/app/f8/id853467066)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.facebook.f8)
 
+[Rocket.Chat Experimental](https://rocket.chat) - Open Source Team Communication
+* [iTunes Store](https://itunes.apple.com/us/app/rocket-chat-experimental/id1272915472)
+* [Google Play Store](https://play.google.com/store/apps/details?id=chat.rocket.reactnative)
+* [Source on Github](https://github.com/RocketChat/Rocket.Chat.ReactNative)
+
 [Hide The Notch](https://github.com/MoOx/HideTheNotch) - A wallpaper app to hide the iPhone X notch
 * [iTunes Store](https://itunes.apple.com/us/app/hide-the-notch/id1312839983?ls=1&mt=8)
 
