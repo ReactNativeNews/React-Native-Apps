@@ -398,3 +398,7 @@ Android wallpapers manager built with react-native and utlizes reddit api.
   * [App Store](https://itunes.apple.com/app/id1294812505?mt=8)
   * [Google Play Store](https://play.google.com/store/apps/details?id=org.sobstel.hydropuzzle)
   * [Source on github](https://github.com/hydropuzzle/hydropuzzle)
+  
+[Sharee](http://www.sharee.global) - Sharee Powerbank Everywhere
+  * [App Store](https://itunes.apple.com/us/app/sharee-powerbank-everywhere/id1441426466?mt=8)
+  * [Google Play Store](https://play.google.com/store/apps/details?id=com.sharee)
