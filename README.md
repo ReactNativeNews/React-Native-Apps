@@ -6,6 +6,9 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[System Equation Solver](https://github.com/rezaandwenhao/system-equation-solver) -
+This is a two-unknown-variable system equation solver app. Firebase is used to store the solving history according to username. The equation solver supports integer, negative, decimal and fraction number.
+
 [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 
 [LBRY](https://github.com/lbryio/lbry-android) - [LBRY](https://lbry.io) is a free, open, and community-run digital marketplace.
