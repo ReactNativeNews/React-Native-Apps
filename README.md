@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Quirk CBT](https://github.com/flaque/quirk)
+Cognitive Behavioral Therapy in a sleek, simple React Native app.
+* [ios](https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8)
+
 [System Equation Solver](https://github.com/rezaandwenhao/system-equation-solver) -
 This is a two-unknown-variable system equation solver app. Firebase is used to store the solving history according to username. The equation solver supports integer, negative, decimal and fraction number.
 
