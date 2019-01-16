@@ -405,3 +405,7 @@ Android wallpapers manager built with react-native and utlizes reddit api.
   * [App Store](https://itunes.apple.com/app/id1294812505?mt=8)
   * [Google Play Store](https://play.google.com/store/apps/details?id=org.sobstel.hydropuzzle)
   * [Source on github](https://github.com/hydropuzzle/hydropuzzle)
+
+[Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - A beautiful, Open Source Android and iOS app for searching song lyrics.
+* [Exponent](https://expo.io/@skempin/lyrics-king)
+
