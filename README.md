@@ -409,3 +409,4 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - A beautiful, Open Source Android and iOS app for searching song lyrics.
 * [Exponent](https://expo.io/@skempin/lyrics-king)
 
+[React Native boileplate](https://github.com/tawachan/react-native-expo-boilerplate) -  A boilerplate to develop a mobile app with React Native and Expo(v32) using TypeScript and Redux (Redux Saga).
