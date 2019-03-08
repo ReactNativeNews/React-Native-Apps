@@ -412,3 +412,9 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 [React Native boileplate](https://github.com/tawachan/react-native-expo-boilerplate) -  A boilerplate to develop a mobile app with React Native and Expo(v32) using TypeScript and Redux (Redux Saga).
 
 [Thirukkural](https://github.com/Avinash-Raj/thirukkural) - Educational app for learning [thirukkural](https://en.wikipedia.org/wiki/Tirukku%E1%B9%9Ba%E1%B8%B7) 
+
+[BMI Calculator](https://github.com/oliver-gomes/react-native-bmi) - Feedback on Body mass index (BMI) to measure body fat based on height and weight. 
+* [Exponent](https://expo.io/@ogomes/bmi-calculator)
+
+[Modern Twin Calculator](https://github.com/oliver-gomes/react-native-calculator) - Modern Calculator with Day/Night Switch help stand out in dark and light area
+* [Exponent](https://expo.io/@ogomes/twin-modern-calculator)
