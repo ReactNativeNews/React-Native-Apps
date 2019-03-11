@@ -418,3 +418,7 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 
 [Modern Twin Calculator](https://github.com/oliver-gomes/react-native-calculator) - Modern Calculator with Day/Night Switch help stand out in dark and light area
 * [Exponent](https://expo.io/@ogomes/twin-modern-calculator)
+
+[Github Gist Client - Arjun](https://github.com/Arjun-sna/react-native-githubgist-client)
+Mobile client application for Github Gists
+  * [Google Play Store](https://play.google.com/store/apps/details?id=com.githubgist)
