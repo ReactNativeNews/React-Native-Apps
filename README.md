@@ -6,6 +6,8 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Movie Swiper](https://github.com/azhavrid/movie-swiper) - Unofficial client for movie service [TMDb](https://www.themoviedb.org).
+
 [Quirk CBT](https://github.com/flaque/quirk)
 Cognitive Behavioral Therapy in a sleek, simple React Native app.
 * [ios](https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8)
