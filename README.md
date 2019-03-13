@@ -422,3 +422,6 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 [Github Gist Client - Arjun](https://github.com/Arjun-sna/react-native-githubgist-client)
 Mobile client application for Github Gists
   * [Google Play Store](https://play.google.com/store/apps/details?id=com.githubgist)
+  
+  
+This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
