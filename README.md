@@ -6,6 +6,8 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Movie Swiper](https://github.com/azhavrid/movie-swiper) - Unofficial client for movie service [TMDb](https://www.themoviedb.org).
+
 [Sh**t! I Smoke](https://shootismoke.github.io/)
 See Your City's Air Pollution Measured in Daily Cigarettes. Featured on BBC, Huffpost, CityLab.
 * [iTunes Store](https://itunes.apple.com/us/app/s-i-smoke/id1365605567?mt=8)
