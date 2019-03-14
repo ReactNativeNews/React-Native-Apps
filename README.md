@@ -10,6 +10,7 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 See Your City's Air Pollution Measured in Daily Cigarettes.
 * [iTunes Store](https://itunes.apple.com/us/app/s-i-smoke/id1365605567?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.shitismoke.app)
+* [Exponent](https://expo.io/@amaurymartiny/shoot-i-smoke)
 * [Source on Github](https://github.com/amaurymartiny/shoot-i-smoke)
 
 [Quirk CBT](https://github.com/flaque/quirk)
