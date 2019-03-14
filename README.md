@@ -6,6 +6,13 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Sh**t! I Smoke](https://shootismoke.github.io/)
+See Your City's Air Pollution Measured in Daily Cigarettes. Featured on BBC, Huffpost, CityLab.
+* [iTunes Store](https://itunes.apple.com/us/app/s-i-smoke/id1365605567?mt=8)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.shitismoke.app)
+* [Exponent](https://expo.io/@amaurymartiny/shoot-i-smoke)
+* [Source on Github](https://github.com/amaurymartiny/shoot-i-smoke)
+
 [Quirk CBT](https://github.com/flaque/quirk)
 Cognitive Behavioral Therapy in a sleek, simple React Native app.
 * [ios](https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8)
