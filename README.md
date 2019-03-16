@@ -6,6 +6,10 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Tripper](https://play.google.com/store/apps/details?id=com.mrecoder.travel) - 
+Discover Nearby Locations
+  * [Google Play Store](https://play.google.com/store/apps/details?id=com.mrecoder.travel)
+  
 [Movie Swiper](https://github.com/azhavrid/movie-swiper) - Unofficial client for movie service [TMDb](https://www.themoviedb.org).
 
 [Sh**t! I Smoke](https://shootismoke.github.io/)
