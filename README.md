@@ -6,6 +6,11 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[QRCode Reader and Generator](https://github.com/insiderdev/qrcode)
+Mobile app for scanning and generating different types of QR Codes.
+* [iTunes Store](https://itunes.apple.com/us/app/id1445350234)
+* [Google Play Store](https://play.google.com/store/apps/details?id=io.insider.apps.qr)
+
 [Movie Swiper](https://github.com/azhavrid/movie-swiper) - Unofficial client for movie service [TMDb](https://www.themoviedb.org).
 
 [Sh**t! I Smoke](https://shootismoke.github.io/)
