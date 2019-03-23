@@ -437,5 +437,11 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 Mobile client application for Github Gists
   * [Google Play Store](https://play.google.com/store/apps/details?id=com.githubgist)
   
+
+[Helo Protocol](https://github.com/gagangoku/helo-protocol-rn)
+Android / IOS app for Helo Protocol. Uses codepush to keep itself up to date.
+  * [Google Play Store](https://play.google.com/store/apps/details?id=com.heloprotocol.customer.app.rn.notificationtester)
+  * [Apple App store](https://itunes.apple.com/gb/app/heloprotocol/id1455721517)
   
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
