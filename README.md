@@ -444,4 +444,8 @@ Android / IOS app for Helo Protocol. Uses codepush to keep itself up to date.
   * [Apple App store](https://itunes.apple.com/gb/app/heloprotocol/id1455721517)
   
 
+[WordsReminder](https://github.com/akiver/wordsreminder) - Save arbitrary words in dictionaries.  
+Made with [react-native-firebase](https://github.com/invertase/react-native-firebase) / [TypeScript](http://www.typescriptlang.org/) and [Detox](https://github.com/wix/Detox) for E2E tests.
+Includes a passcode / biometry system powered by [react-native-touch-id](https://github.com/naoufal/react-native-touch-id) and [rn-secure-storage](https://github.com/talut/rn-secure-storage).
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
