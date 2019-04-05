@@ -448,4 +448,10 @@ Android / IOS app for Helo Protocol. Uses codepush to keep itself up to date.
 Made with [react-native-firebase](https://github.com/invertase/react-native-firebase) / [TypeScript](http://www.typescriptlang.org/) and [Detox](https://github.com/wix/Detox) for E2E tests.
 Includes a passcode / biometry system powered by [react-native-touch-id](https://github.com/naoufal/react-native-touch-id) and [rn-secure-storage](https://github.com/talut/rn-secure-storage).
 
+[Basic Timer](https://github.com/ReactNativeSchool/react-native-timer) - A simple timer app to help you get up and running with core components and APIs that React Native provides.
+
+[Basic Calculator](https://github.com/ReactNativeSchool/react-native-calculator) - A simple calculator based on iOS', built with React Native!
+
+[Quizz App](https://github.com/ReactNativeSchool/react-native-quiz) - An app to store your knowledge and quiz yourself on it.
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
