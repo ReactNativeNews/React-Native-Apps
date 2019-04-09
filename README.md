@@ -455,3 +455,8 @@ Includes a passcode / biometry system powered by [react-native-touch-id](https:/
 [Quizz App](https://github.com/ReactNativeSchool/react-native-quiz) - An app to store your knowledge and quiz yourself on it.
 
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
+
+
+### Boilerplate React Native Apps
+
+[Context API Demo](https://github.com/ToJen/react_native_context_demo) - A simple app showing how Context API can be used in React Native by authenticating users. [Expo](https://expo.io/tools) and [React Navigation](https://reactnavigation.org/) were used for this. This is great for hackathons or quick projects! 
