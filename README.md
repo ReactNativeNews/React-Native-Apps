@@ -17,7 +17,7 @@ Mobile app for scanning and generating different types of QR Codes.
 See Your City's Air Pollution Measured in Daily Cigarettes. Featured on BBC, Huffpost, CityLab.
 * [iTunes Store](https://itunes.apple.com/us/app/s-i-smoke/id1365605567?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.shitismoke.app)
-* [Exponent](https://expo.io/@amaurymartiny/shoot-i-smoke)
+* [Expo](https://expo.io/@amaurymartiny/shoot-i-smoke)
 * [Source on Github](https://github.com/amaurymartiny/shoot-i-smoke)
 
 [Quirk CBT](https://github.com/flaque/quirk)
@@ -52,12 +52,12 @@ This is a two-unknown-variable system equation solver app. Firebase is used to s
 * [Amazon AppStore](https://www.amazon.com/RSG-Group-Chess/dp/B07D1KWTK7)
 
 [Pocat](https://github.com/rotembcohen/pokerBuddyApp) - Organize casual poker games
-* [Exponent](https://expo.io/@rotembcohen/pocat)
+* [Expo](https://expo.io/@rotembcohen/pocat)
 * [iTunes Store](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.hecodesthings.pocat)
 
 [Cryptobullography](https://github.com/WebStew/bullet) - Cryptocurrency converter, manager and tracker.
-* [Exponent](https://expo.io/@terminalpunk/bullet)
+* [Expo](https://expo.io/@terminalpunk/bullet)
 * [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
 
@@ -140,23 +140,23 @@ A fun minimalistic unofficial client for Product Hunt. crna + expo + native-base
 A beautiful, Open Source unofficial Android app for Product Hunt. [Try it here](https://expo.io/@community/feline)
 
 [Floaty Plane](https://github.com/exponentjs/fluxpybird)  
-Exponent  
+Expo  
 Flappy bird, but with a paper airplane. [Try it here](https://getexponent.com/@exponent/floatyplane)
 
 [React Native for Curious People](https://github.com/exponentjs/react-native-for-curious-people)  
-Exponent
+Expo
 
 [PomodoroExp](https://github.com/exponentjs/pomodoroexp)  
-Exponent  
-A simple Pomodoro timer for Exponent. [Try it here](https://getexponent.com/@exponent/pomodoro)
+Expo  
+A simple Pomodoro timer for Expo. [Try it here](https://getexponent.com/@exponent/pomodoro)
 
 [Growler Prowler](https://github.com/brentvatne/growler-prowler)
-Exponent
+Expo
 Find craft beer in Vancouver! Collect em all. Looks pretty. [Try it here](https://getexponent.com/@community/growler-prowler)
 
 [Breakout](https://github.com/brentvatne/breakout)
-Exponent
-Uses Three.js via EXGL (an implementation of WebGL for Exponent) for a semi-3d take on the classic Breakout game. Built for Exponent's internal Game Jam. [Try it here](https://getexponent.com/@community/breakout)
+Expo
+Uses Three.js via EXGL (an implementation of WebGL for Expo) for a semi-3d take on the classic Breakout game. Built for Expo's internal Game Jam. [Try it here](https://getexponent.com/@community/breakout)
 
 [React Native NBA App](https://github.com/wwayne/react-native-nba-app)  
 Wang Zixiao  
@@ -171,7 +171,7 @@ Christopher Dro
 
 [Native Component List](https://github.com/exponentjs/native-component-list)  
 Brent Vatne  
-Demonstrates a variety of components built into React Native and Exponent. [Try it here](https://getexponent.com/@community/native-component-list)
+Demonstrates a variety of components built into React Native and Expo. [Try it here](https://getexponent.com/@community/native-component-list)
 
 [React Native Github Notetaker](https://github.com/tylermcginnis/react-native-gh-notetaker)
 Tyler Mcginnis  
@@ -425,17 +425,17 @@ Android wallpapers manager built with react-native and utlizes reddit api.
   * [Source on github](https://github.com/hydropuzzle/hydropuzzle)
 
 [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - A beautiful, Open Source Android and iOS app for searching song lyrics.
-* [Exponent](https://expo.io/@skempin/lyrics-king)
+* [Expo](https://expo.io/@skempin/lyrics-king)
 
 [React Native boileplate](https://github.com/tawachan/react-native-expo-boilerplate) -  A boilerplate to develop a mobile app with React Native and Expo(v32) using TypeScript and Redux (Redux Saga).
 
 [Thirukkural](https://github.com/Avinash-Raj/thirukkural) - Educational app for learning [thirukkural](https://en.wikipedia.org/wiki/Tirukku%E1%B9%9Ba%E1%B8%B7) 
 
 [BMI Calculator](https://github.com/oliver-gomes/react-native-bmi) - Feedback on Body mass index (BMI) to measure body fat based on height and weight. 
-* [Exponent](https://expo.io/@ogomes/bmi-calculator)
+* [Expo](https://expo.io/@ogomes/bmi-calculator)
 
 [Modern Twin Calculator](https://github.com/oliver-gomes/react-native-calculator) - Modern Calculator with Day/Night Switch help stand out in dark and light area
-* [Exponent](https://expo.io/@ogomes/twin-modern-calculator)
+* [Expo](https://expo.io/@ogomes/twin-modern-calculator)
 
 [Github Gist Client - Arjun](https://github.com/Arjun-sna/react-native-githubgist-client)
 Mobile client application for Github Gists
