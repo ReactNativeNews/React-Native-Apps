@@ -458,10 +458,15 @@ Includes a passcode / biometry system powered by [react-native-touch-id](https:/
 
 [Quizz App](https://github.com/ReactNativeSchool/react-native-quiz) - An app to store your knowledge and quiz yourself on it.
 
+
+[Meet Native](https://github.com/beauvaisbruno/meetnative) - An app to locate a language partner. 
+Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Starter), [redux-saga](https://github.com/redux-saga/redux-saga), [Storybook](https://github.com/storybooks/storybook), [Firestore](https://firebase.google.com/docs/firestore/), [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/), [Firebase Authentication](https://firebase.google.com/docs/auth/), [Graphql](https://graphql.org/) with [Apollo](https://www.apollographql.com/), [Facebook SDK](https://github.com/facebook/react-native-fbsdk)
+
 [eSteem Mobile](https://esteem.app) - Decentralized, rewarding social media.
 * [iTunes Store](https://itunes.apple.com/us/app/esteem-v2/id1451896376)
 * [Google Play Store](https://play.google.com/store/apps/details?id=app.esteem.mobile)
 * [Source on Github](https://github.com/esteemapp/esteem-mobile)
+
 
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
