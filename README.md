@@ -471,6 +471,7 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 * [Google Play Store](https://play.google.com/store/apps/details?id=app.esteem.mobile)
 * [Source on Github](https://github.com/esteemapp/esteem-mobile)
 
+[Bon-Appetit!](https://github.com/steniowagner/bon-appetit-app) - A React-Native App that shows options of Restaurants, Gastronomic Events and Dishes in the City of Fortaleza (Brazil).
 
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
