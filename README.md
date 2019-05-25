@@ -473,6 +473,10 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 
 [Bon-Appetit!](https://github.com/steniowagner/bon-appetit-app) - A React-Native App that shows options of Restaurants, Gastronomic Events and Dishes in the City of Fortaleza (Brazil).
 
+[Tip Advisor](https://github.com/charliemcg/TipAdvisor) - Tip calculator which adjusts for country and tipping situation.
+
+[Tone Tracker](https://github.com/charliemcg/ToneTrackerRN) - This app allows users to track the life span of their guitar strings.
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
 
