@@ -100,9 +100,6 @@ A cross-platform equation solver that solves linear, quadratic,  and cubic equat
 liyuechun
 Cool comic books, supporting iOS and Android.
 
-[Canvas Teacher](https://github.com/instructure/instructure-ios/tree/master/rn/Teacher) - Instructure
-* [iTunes Store](https://itunes.apple.com/us/app/canvas-teacher/id1257834464?mt=8)
-
 [Cat or Dog](https://github.com/punksta/Cat-or-dog) - Drag-n-drop mobile game.
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.punksta.apps.sortgame)
 
