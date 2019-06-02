@@ -476,6 +476,8 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 
 [MageCart](https://github.com/alexakasanjeev/magento_react_native) - Magento 2 API based Ecommerce app, that helps you view products and place order.
 
+[MindCast](https://github.com/steniowagner/mindCast) - A Podcast App that streams audio files from the server and has as main purpose "Share knowledge in the form of podcasts, providing a simple way to learn".
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
 
