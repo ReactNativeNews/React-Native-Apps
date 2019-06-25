@@ -480,6 +480,8 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 
 [MindCast](https://github.com/steniowagner/mindCast) - A Podcast App that streams audio files from the server and has as main purpose "Share knowledge in the form of podcasts, providing a simple way to learn".
 
+[Chat by Stream](https://github.com/GetStream/stream-chat-react-native) - Build real time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the [Stream Chat](https://getstream.io/chat/) API & SDKs.
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
 
