@@ -484,6 +484,9 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 
 [Anime Jisho](https://github.com/AurangzaibRamzan/Anime-jisho) - A React native application for exploring the world of anime which includes multifaceted features including: search on board range of anime, details on particular anime i.e. characters, description, top trends etc.
 
+[NSFWJS Mobile](https://github.com/infinitered/nsfwjs-mobile) - Client-side indecent content checking example app
+* [Blog post](https://shift.infinite.red/nsfw-js-for-react-native-a37c9ba45fe9)
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
 
