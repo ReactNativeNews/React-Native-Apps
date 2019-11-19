@@ -108,6 +108,8 @@ Cool comic books, supporting iOS and Android.
 
 [Yelp Graphql Api Integration](https://github.com/mreorhan/Yelp-Graphql-Integration-with-Apollo-Client) - You can use Yelp Graphql Api with Apollo Client.
 
+[Animavita](https://github.com/wendelfreitas/animavita) - A minimal, clean and beautiful mobile app to help people find the closest pet friend to adopt.
+
 [Daily Prices](http://ansolutions.co/prices-today) - [Google Play Store](https://play.google.com/store/apps/details?id=com.na.prices.today&hl=en)
  AN Solutions
  Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
