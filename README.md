@@ -489,6 +489,8 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 [NSFWJS Mobile](https://github.com/infinitered/nsfwjs-mobile) - Client-side indecent content checking example app
 * [Blog post](https://shift.infinite.red/nsfw-js-for-react-native-a37c9ba45fe9)
 
+[Ulangi](https://github.com/ulangi/ulangi) - A language learning app with over 20 features (offline access, dark mode, mini-games, built-in dictionary, image search, ...)
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
 
