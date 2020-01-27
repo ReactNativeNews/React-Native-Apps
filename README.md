@@ -106,6 +106,11 @@ Cool comic books, supporting iOS and Android.
 [Moonwalk](https://github.com/Illu/moonwalk) - Stay up to date with upcoming rocket launches.
 * [iTunes Store](https://itunes.apple.com/us/app/moonwalk-rocket-launches/id1439376174)
 
+[Claro](https://www.claro.com.br/) - The largest telco in Latin America
+* [iOS App Store](https://apps.apple.com/br/app/novo-minha-claro-m%C3%B3vel/id1484392647)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.claroapp)
+
+
 [Yelp Graphql Api Integration](https://github.com/mreorhan/Yelp-Graphql-Integration-with-Apollo-Client) - You can use Yelp Graphql Api with Apollo Client.
 
 [Animavita](https://github.com/wendelfreitas/animavita) - A minimal, clean and beautiful mobile app to help people find the closest pet friend to adopt.
