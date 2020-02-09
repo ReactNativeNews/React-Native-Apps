@@ -491,6 +491,10 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 
 [Ulangi](https://github.com/ulangi/ulangi) - A language learning app with over 20 features (offline access, dark mode, mini-games, built-in dictionary, image search, ...)
 
+[Small Steps](https://github.com/imranariffin/small-steps) - An app that helps you achieve your ambitious goals by focusing on the marginal improvements towards the goals
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.arikama.smallsteps)
+* [Source on GitHub](https://github.com/imranariffin/small-steps)
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
 
