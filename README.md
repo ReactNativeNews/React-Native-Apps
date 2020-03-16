@@ -495,6 +495,12 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.arikama.smallsteps)
 * [Source on GitHub](https://github.com/imranariffin/small-steps)
 
+[NMF.earth](https://nmf.earth/)
+Calculate, understand and reduce your carbon footprint 🌱
+* [iOS](https://apps.apple.com/us/app/nmf-earth/id1494561829)
+* [Android](https://play.google.com/store/apps/details?id=nmf.earth)
+* [Source on Github](https://github.com/NotMyFaultEarth/nmf-app)
+
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
 
