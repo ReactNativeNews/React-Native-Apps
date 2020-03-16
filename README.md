@@ -495,7 +495,7 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.arikama.smallsteps)
 * [Source on GitHub](https://github.com/imranariffin/small-steps)
 
-[https://github.com/NotMyFaultEarth/nmf-app](https://nmf.earth/)
+[NMF.earth](https://nmf.earth/)
 Calculate, understand and reduce your carbon footprint 🌱
 * [iOS](https://apps.apple.com/us/app/nmf-earth/id1494561829)
 * [Android](https://play.google.com/store/apps/details?id=nmf.earth)
