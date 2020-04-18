@@ -108,6 +108,8 @@ Cool comic books, supporting iOS and Android.
 
 [Yelp Graphql Api Integration](https://github.com/mreorhan/Yelp-Graphql-Integration-with-Apollo-Client) - You can use Yelp Graphql Api with Apollo Client.
 
+[Animavita](https://github.com/wendelfreitas/animavita) - A minimal, clean and beautiful mobile app to help people find the closest pet friend to adopt.
+
 [Daily Prices](http://ansolutions.co/prices-today) - [Google Play Store](https://play.google.com/store/apps/details?id=com.na.prices.today&hl=en)
  AN Solutions
  Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
@@ -476,9 +478,28 @@ Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Star
 
 [Tone Tracker](https://github.com/charliemcg/ToneTrackerRN) - This app allows users to track the life span of their guitar strings.
 
-[MageCart](https://github.com/alexakasanjeev/magento_react_native) - Magento 2 API based Ecommerce app, that helps you view products and place order.
+[MageCart](https://github.com/alexakasanjeev/magento_react_native) - MageCart is an e-commerce app for Magento 2.1 onwards. It consumes Magento 2 REST API to display catalog, products, add products to cart and let you place order.
 
 [MindCast](https://github.com/steniowagner/mindCast) - A Podcast App that streams audio files from the server and has as main purpose "Share knowledge in the form of podcasts, providing a simple way to learn".
+
+[Chat by Stream](https://github.com/GetStream/stream-chat-react-native) - Build real time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the [Stream Chat](https://getstream.io/chat/) API & SDKs.
+
+[Anime Jisho](https://github.com/AurangzaibRamzan/Anime-jisho) - A React native application for exploring the world of anime which includes multifaceted features including: search on board range of anime, details on particular anime i.e. characters, description, top trends etc.
+
+[NSFWJS Mobile](https://github.com/infinitered/nsfwjs-mobile) - Client-side indecent content checking example app
+* [Blog post](https://shift.infinite.red/nsfw-js-for-react-native-a37c9ba45fe9)
+
+[Ulangi](https://github.com/ulangi/ulangi) - A language learning app with over 20 features (offline access, dark mode, mini-games, built-in dictionary, image search, ...)
+
+[Small Steps](https://github.com/imranariffin/small-steps) - An app that helps you achieve your ambitious goals by focusing on the marginal improvements towards the goals
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.arikama.smallsteps)
+* [Source on GitHub](https://github.com/imranariffin/small-steps)
+
+[NMF.earth](https://nmf.earth/)
+Calculate, understand and reduce your carbon footprint 🌱
+* [iOS](https://apps.apple.com/us/app/nmf-earth/id1494561829)
+* [Android](https://play.google.com/store/apps/details?id=nmf.earth)
+* [Source on Github](https://github.com/NotMyFaultEarth/nmf-app)
 
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
 
@@ -486,4 +507,5 @@ This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief T
 ### Boilerplate React Native Apps
 
 [Context API Demo](https://github.com/ToJen/react_native_context_demo) - A simple app showing how Context API can be used in React Native by authenticating users. [Expo](https://expo.io/tools) and [React Navigation](https://reactnavigation.org/) were used for this. This is great for hackathons or quick projects!
-[arcn](https://github.com/alexakasanjeev/arcn) React native boiler plate code based on Atomic design, implements react navigation, redux, redux-saga and storybook 
+
+[arcn](https://github.com/alexakasanjeev/arcn) - React native boiler plate code based on Atomic design, implements react navigation, redux, redux-saga and storybook.
