@@ -145,5 +145,5 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ## Core Contributors
 
-This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
+This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Innovation Officer of [Infinite Red](https://infinite.red/react-native).
 
