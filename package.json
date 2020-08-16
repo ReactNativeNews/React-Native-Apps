@@ -1,0 +1,43 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  },
+  "dependencies": {
+    "@alan-ai/alan-sdk-web": "^1.3.0",
+    "@react-native-community/masked-view": "0.1.6",
+    "@react-navigation/native": "^5.7.1",
+    "expo": "~37.0.3",
+    "expo-cli": "^3.22.1",
+    "expo-notifications": "~0.1.1",
+    "expo-status-bar": "^1.0.2",
+    "moment": "^2.26.0",
+    "native-base": "^2.13.12",
+    "react": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+    "react-native-appearance": "~0.3.3",
+    "react-native-custom-fonts": "^1.2.0-beta.1",
+    "react-native-dark-mode": "^0.2.2",
+    "react-native-elements": "^2.0.4",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-paper": "^4.0.1",
+    "react-native-reanimated": "^1.9.0",
+    "react-native-safe-area-context": "0.7.3",
+    "react-native-screens": "^2.9.0",
+    "react-native-webview": "8.1.1",
+    "react-navigation": "^4.4.0",
+    "react-navigation-stack": "^2.8.2",
+    "react-navigation-tabs": "^2.9.0"
+  },
+  "devDependencies": {},
+  "private": true
+}
