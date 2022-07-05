@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.travel"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
+14
+15    <application
+15-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:6:5-25:19
+16        android:name="com.travel.MainApplication"
+16-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:7:7-38
+17        android:allowBackup="false"
+17-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:11:7-34
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d97418f29556dc00d9262accd924e8ac\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/logo"
+20-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:9:7-34
+21        android:label="@string/app_name"
+21-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:8:7-39
+22        android:roundIcon="@mipmap/logo"
+22-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:10:7-39
+23        android:theme="@style/AppTheme"
+23-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:12:7-38
+24        android:usesCleartextTraffic="true" >
+24-->C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:8:9-44
+25        <activity
+25-->C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:11:9-111
+26            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+26-->C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:11:19-83
+27            android:exported="false" />
+27-->C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:11:84-108
+28        <activity
+28-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:13:7-24:18
+29            android:name="com.travel.MainActivity"
+29-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:14:9-37
+30            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+30-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:16:9-118
+31            android:exported="true"
+31-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:19:9-32
+32            android:label="@string/app_name"
+32-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:15:9-41
+33            android:launchMode="singleTask"
+33-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:17:9-40
+34            android:windowSoftInputMode="adjustResize" >
+34-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:18:9-51
+35            <intent-filter>
+35-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:20:9-23:25
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:21:13-65
+36-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:21:21-62
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:22:13-73
+38-->C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:22:23-70
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>

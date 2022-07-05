@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    }
+]

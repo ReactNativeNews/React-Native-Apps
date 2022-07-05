@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ee6279daff0e353913f650ca1c1098c1\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\2cade2aff8fbe74525993e45cf63412b\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-gesture-handler] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\nklmantey\.gradle\caches\transforms-3\e1c107e7856bf5cdd6dba54e322b105b\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\eb5de0732845d4227271d838de9753b6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\nklmantey\.gradle\caches\transforms-3\f847d2d73496ec3d012a8ae4db387b4f\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-reanimated\android\build\.transforms\3141ed14a2b84c88a976d877399a508a\transformed\jetified-react-native-reanimated-68-jsc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\b1e65191b108d1b6411632de1d8ff223\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\903d2977f817a86203d512e546fb0342\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3f2bb300ae2419ec192c154dada19ee6\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3dad67e27f0f13d4c544ec5c80a21c54\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\nklmantey\.gradle\caches\transforms-3\de03a6029be782c12d28f5fad56ac0a7\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\970e75521bd48577978f9f025eebfe3f\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ebe6e789eb99140b06790de0102a38fa\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\0a4040c91546d3de521ea7084a5c821b\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\eed9692968faf8929ba6d3df2a43a82d\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\13506c2bbb00fc4de71e523f01470cf7\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\nklmantey\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f87f531531d0087c000c9c9ba415c323\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3992c2e4371fc8f1057fe5a70ec14cfb\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3a255a453005be5cdabbdfcb8d73969f\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\24b777cccce8464befe3cf95c5aeefea\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\10d56dc05e97ac2f55b989317a070bfc\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d3b760bafa285fc5b53d4d475eb5edf7\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\99fb3090853279d38d9e2adbc462262a\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\65112bbf0ea95c6febc219c9aaa7a4d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\97550cfd3e55f6119a8d83944e2dcffc\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\2012f000e828058eab027b61766d9518\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\nklmantey\.gradle\caches\transforms-3\72f79ff6259fcf320caa6612c54406c2\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\caa4ca4fab4263d7b5eebd46bb20d8c9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ef24baf15d72b40875cbaed2dd32431f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\7af28ebc658c27f046b1e2799bd6cd0d\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\7ad5900291b975c8ae18c2336420feef\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\040be45bb82f27b877836715f4031c30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\nklmantey\.gradle\caches\transforms-3\364993684e2ac8a08ccb8c01b004ea62\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\68fa321893b9d59d2209b899358e1e1b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\nklmantey\.gradle\caches\transforms-3\98c00a68780e767d5335ffe485487b81\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3df40c6c3e5b05a3e346556fdefd0a4b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\9062e797fa008105082a1b4ad943b70e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\62c96dde5e2c9d0a2940f968417aefb3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\054641bfa3e758885a2797a6568b4cd4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f6d96996ddeb35327a127f381dedf8de\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\70b663f59ca55603ca86f6f4150f0ded\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nklmantey\.gradle\caches\transforms-3\deb5eb746391b742ddb391109f985e49\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\012c317610130ac07163361597e39f7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\18626f67cdc17dfca9f3faf24eba3271\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d97418f29556dc00d9262accd924e8ac\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\f55c8277fb6ee13bb762946e7ced2f49\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\2b132809905fb611ba2a96b522e30c68\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\c588b364886ac61ed97fee91fb9dc309\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f9e4d808ea5369ae0bd9e2919f4728a4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nklmantey\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ea2bc8a6c7153f424ec208fc967ffd36\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\bb94a17bfdb691d43dd6bb770701c5e8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\8b221ddf2af6612777702b023154a16d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\48f72275b365c97970a5871768952523\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\bf6cb0348188d07436753af446824091\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\315041ecfcd1c074893a6e01bca6da3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:2:3-23
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:2:3-23
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\nklmantey\.gradle\caches\transforms-3\e1c107e7856bf5cdd6dba54e322b105b\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\nklmantey\.gradle\caches\transforms-3\e1c107e7856bf5cdd6dba54e322b105b\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\nklmantey\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\nklmantey\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\10d56dc05e97ac2f55b989317a070bfc\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\10d56dc05e97ac2f55b989317a070bfc\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d97418f29556dc00d9262accd924e8ac\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d97418f29556dc00d9262accd924e8ac\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nklmantey\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nklmantey\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d97418f29556dc00d9262accd924e8ac\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:10:7-39
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:10:7-39
+	tools:targetApi
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:9:7-34
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:9:7-34
+	android:allowBackup
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.travel.MainActivity
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ee6279daff0e353913f650ca1c1098c1\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ee6279daff0e353913f650ca1c1098c1\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\2cade2aff8fbe74525993e45cf63412b\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\2cade2aff8fbe74525993e45cf63412b\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\nklmantey\.gradle\caches\transforms-3\e1c107e7856bf5cdd6dba54e322b105b\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\nklmantey\.gradle\caches\transforms-3\e1c107e7856bf5cdd6dba54e322b105b\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\eb5de0732845d4227271d838de9753b6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\eb5de0732845d4227271d838de9753b6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\nklmantey\.gradle\caches\transforms-3\f847d2d73496ec3d012a8ae4db387b4f\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\nklmantey\.gradle\caches\transforms-3\f847d2d73496ec3d012a8ae4db387b4f\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-reanimated\android\build\.transforms\3141ed14a2b84c88a976d877399a508a\transformed\jetified-react-native-reanimated-68-jsc\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] C:\Users\nklmantey\react-native-travel-app\node_modules\react-native-reanimated\android\build\.transforms\3141ed14a2b84c88a976d877399a508a\transformed\jetified-react-native-reanimated-68-jsc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\b1e65191b108d1b6411632de1d8ff223\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\b1e65191b108d1b6411632de1d8ff223\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\903d2977f817a86203d512e546fb0342\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\903d2977f817a86203d512e546fb0342\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3f2bb300ae2419ec192c154dada19ee6\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3f2bb300ae2419ec192c154dada19ee6\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3dad67e27f0f13d4c544ec5c80a21c54\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3dad67e27f0f13d4c544ec5c80a21c54\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\nklmantey\.gradle\caches\transforms-3\de03a6029be782c12d28f5fad56ac0a7\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\nklmantey\.gradle\caches\transforms-3\de03a6029be782c12d28f5fad56ac0a7\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\970e75521bd48577978f9f025eebfe3f\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\970e75521bd48577978f9f025eebfe3f\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ebe6e789eb99140b06790de0102a38fa\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ebe6e789eb99140b06790de0102a38fa\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\0a4040c91546d3de521ea7084a5c821b\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\0a4040c91546d3de521ea7084a5c821b\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\eed9692968faf8929ba6d3df2a43a82d\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\eed9692968faf8929ba6d3df2a43a82d\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\13506c2bbb00fc4de71e523f01470cf7\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\13506c2bbb00fc4de71e523f01470cf7\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\nklmantey\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\nklmantey\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f87f531531d0087c000c9c9ba415c323\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f87f531531d0087c000c9c9ba415c323\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3992c2e4371fc8f1057fe5a70ec14cfb\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3992c2e4371fc8f1057fe5a70ec14cfb\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3a255a453005be5cdabbdfcb8d73969f\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3a255a453005be5cdabbdfcb8d73969f\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\24b777cccce8464befe3cf95c5aeefea\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\24b777cccce8464befe3cf95c5aeefea\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\10d56dc05e97ac2f55b989317a070bfc\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\10d56dc05e97ac2f55b989317a070bfc\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d3b760bafa285fc5b53d4d475eb5edf7\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d3b760bafa285fc5b53d4d475eb5edf7\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\99fb3090853279d38d9e2adbc462262a\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\99fb3090853279d38d9e2adbc462262a\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\65112bbf0ea95c6febc219c9aaa7a4d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\65112bbf0ea95c6febc219c9aaa7a4d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\97550cfd3e55f6119a8d83944e2dcffc\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\97550cfd3e55f6119a8d83944e2dcffc\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\2012f000e828058eab027b61766d9518\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\2012f000e828058eab027b61766d9518\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\nklmantey\.gradle\caches\transforms-3\72f79ff6259fcf320caa6612c54406c2\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\nklmantey\.gradle\caches\transforms-3\72f79ff6259fcf320caa6612c54406c2\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\caa4ca4fab4263d7b5eebd46bb20d8c9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\caa4ca4fab4263d7b5eebd46bb20d8c9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ef24baf15d72b40875cbaed2dd32431f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ef24baf15d72b40875cbaed2dd32431f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\7af28ebc658c27f046b1e2799bd6cd0d\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\7af28ebc658c27f046b1e2799bd6cd0d\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\7ad5900291b975c8ae18c2336420feef\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\7ad5900291b975c8ae18c2336420feef\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\040be45bb82f27b877836715f4031c30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\040be45bb82f27b877836715f4031c30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\nklmantey\.gradle\caches\transforms-3\364993684e2ac8a08ccb8c01b004ea62\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\nklmantey\.gradle\caches\transforms-3\364993684e2ac8a08ccb8c01b004ea62\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\68fa321893b9d59d2209b899358e1e1b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\68fa321893b9d59d2209b899358e1e1b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\nklmantey\.gradle\caches\transforms-3\98c00a68780e767d5335ffe485487b81\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\nklmantey\.gradle\caches\transforms-3\98c00a68780e767d5335ffe485487b81\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3df40c6c3e5b05a3e346556fdefd0a4b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\3df40c6c3e5b05a3e346556fdefd0a4b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\9062e797fa008105082a1b4ad943b70e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\9062e797fa008105082a1b4ad943b70e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\62c96dde5e2c9d0a2940f968417aefb3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\62c96dde5e2c9d0a2940f968417aefb3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\054641bfa3e758885a2797a6568b4cd4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\054641bfa3e758885a2797a6568b4cd4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f6d96996ddeb35327a127f381dedf8de\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f6d96996ddeb35327a127f381dedf8de\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\70b663f59ca55603ca86f6f4150f0ded\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\70b663f59ca55603ca86f6f4150f0ded\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nklmantey\.gradle\caches\transforms-3\deb5eb746391b742ddb391109f985e49\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nklmantey\.gradle\caches\transforms-3\deb5eb746391b742ddb391109f985e49\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\012c317610130ac07163361597e39f7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\012c317610130ac07163361597e39f7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\18626f67cdc17dfca9f3faf24eba3271\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\18626f67cdc17dfca9f3faf24eba3271\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d97418f29556dc00d9262accd924e8ac\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\d97418f29556dc00d9262accd924e8ac\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\f55c8277fb6ee13bb762946e7ced2f49\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\f55c8277fb6ee13bb762946e7ced2f49\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\2b132809905fb611ba2a96b522e30c68\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\2b132809905fb611ba2a96b522e30c68\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\c588b364886ac61ed97fee91fb9dc309\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\c588b364886ac61ed97fee91fb9dc309\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f9e4d808ea5369ae0bd9e2919f4728a4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\f9e4d808ea5369ae0bd9e2919f4728a4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nklmantey\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nklmantey\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ea2bc8a6c7153f424ec208fc967ffd36\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\ea2bc8a6c7153f424ec208fc967ffd36\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\bb94a17bfdb691d43dd6bb770701c5e8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nklmantey\.gradle\caches\transforms-3\bb94a17bfdb691d43dd6bb770701c5e8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\8b221ddf2af6612777702b023154a16d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nklmantey\.gradle\caches\transforms-3\8b221ddf2af6612777702b023154a16d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\48f72275b365c97970a5871768952523\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\48f72275b365c97970a5871768952523\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\bf6cb0348188d07436753af446824091\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\nklmantey\.gradle\caches\transforms-3\bf6cb0348188d07436753af446824091\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\315041ecfcd1c074893a6e01bca6da3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nklmantey\.gradle\caches\transforms-3\315041ecfcd1c074893a6e01bca6da3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from C:\Users\nklmantey\react-native-travel-app\android\app\src\debug\AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\nklmantey\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73

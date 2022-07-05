@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\nklmantey\\react-native-travel-app\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nklmantey\\.gradle\\caches\\transforms-3\\d3b760bafa285fc5b53d4d475eb5edf7\\transformed\\appcompat-1.3.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,295,400,482,580,688,766,841,932,1025,1120,1214,1314,1407,1502,1596,1687,1778,1856,1958,2056,2151,2254,2350,2446,2594,2691",
+                        "endColumns": "96,92,104,81,97,107,77,74,90,92,94,93,99,92,94,93,90,90,77,101,97,94,102,95,95,147,96,78",
+                        "endOffsets": "197,290,395,477,575,683,761,836,927,1020,1115,1209,1309,1402,1497,1591,1682,1773,1851,1953,2051,2146,2249,2345,2441,2589,2686,2765"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nklmantey\\.gradle\\caches\\transforms-3\\d97418f29556dc00d9262accd924e8ac\\transformed\\core-1.6.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2770",
+                        "endColumns": "100",
+                        "endOffsets": "2866"
+                    }
+                }
+            ]
+        }
+    ]
+}
