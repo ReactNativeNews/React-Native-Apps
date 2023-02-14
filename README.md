@@ -203,7 +203,6 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 | [React Native Psychology App](https://github.com/sssajjad007/react-native-psychology-app) | 📱🚀A React Native app to bootstrap your next app with React Navigation, Mobx, Mmkv! | ![React Native version](https://img.shields.io/github/package-json/dependency-version/sssajjad007/react-native-psychology-app/react-native) | ![GitHub last commit](https://img.shields.io/github/last-commit/sssajjad007/react-native-psychology-app?label=%20) | ![Github Stars](https://img.shields.io/github/stars/sssajjad007/react-native-psychology-app) |
 
 
-
 ## Core Contributors
 
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Innovation Officer of [Infinite Red](https://infinite.red/technologies/react-native).
