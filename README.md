@@ -1,8 +1,12 @@
 ![React Native Apps](http://i.imgur.com/MmGT6cn.png "React Native Apps")
 
-React Native Apps is a showcase of only open source React Native apps. These apps do not have to be published to the App Store or anything, they are simply here to showcase work from within the community, and to help React Native developers by seeing how others are building and structuring their applications.
+React Native Apps is a showcase of _only_ open source React Native and Expo apps. These apps do not have to be published to the App Store or anything, they are simply here to showcase work from within the community, and to help React Native and Expo developers by seeing how others are building and structuring their applications.
 
-To get your project added, please submit a [pull request](https://github.com/ReactNativeNews/React-Native-Apps/pulls).
+To get your project added, please submit a [pull request](https://github.com/ReactNativeNews/React-Native-Apps/pulls). It is totally okay to add it to the top of this list -- freshest apps get first place!
+
+This list is curated by [Gant Laborde](https://x.com/gantlaborde), co-owner and CIO of [Infinite Red](https://infinite.red).
+
+To stay up-to-date with the latest React Native news, check out the [React Native Newsletter](https://reactnativenewsletter.com)!
 
 ## Open Source React Native Apps
 
@@ -224,6 +228,7 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 | Title        | Description | React Native Version | Last Commit | Github Stars |
 | ------------ | ----------- | ---------------------| ----------- | ------------:|
+| [Ignite CLI](https://github.com/infinitered/ignite) | Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting. | ![React Native version](https://img.shields.io/github/package-json/dependency-version/infinitered/ignite/react-native?label=%20&filename=boilerplate/package.json) | ![GitHub last commit](https://img.shields.io/github/last-commit/infinitered/ignite?label=%20) | ![Github Stars](https://img.shields.io/github/stars/infinitered/ignite) |
 | [Context API Demo](https://github.com/ToJen/react_native_context_demo) | A simple app showing how Context API can be used in React Native by authenticating users. [Expo](https://expo.io/tools) and [React Navigation](https://reactnavigation.org/) were used for this. This is great for hackathons or quick projects! | ![Expo version](https://img.shields.io/github/package-json/dependency-version/ToJen/react_native_context_demo/expo?label=expo) | ![GitHub last commit](https://img.shields.io/github/last-commit/ToJen/react_native_context_demo?label=%20) | ![Github Stars](https://img.shields.io/github/stars/ToJen/react_native_context_demo) |
 | [React Native boilerplate](https://github.com/sanjeevyadavIT/react-native-boilerplate) | A Robust React Native boilerplate to kickstart your new app , implements react navigation, redux, redux-saga and storybook. | ![React Native version](https://img.shields.io/github/package-json/dependency-version/sanjeevyadavIT/react-native-boilerplate/react-native?label=%20) | ![GitHub last commit](https://img.shields.io/github/last-commit/sanjeevyadavIT/react-native-boilerplate?label=%20) | ![Github Stars](https://img.shields.io/github/stars/sanjeevyadavIT/react-native-boilerplate) |
 | [React Native boileplate](https://github.com/tawachan/react-native-expo-boilerplate) | A boilerplate to develop a mobile app with React Native and Expo using TypeScript and Redux (Redux Saga). | ![Expo version](https://img.shields.io/github/package-json/dependency-version/tawachan/react-native-expo-boilerplate/expo?label=expo) | ![GitHub last commit](https://img.shields.io/github/last-commit/tawachan/react-native-expo-boilerplate?label=%20) | ![Github Stars](https://img.shields.io/github/stars/tawachan/react-native-expo-boilerplate) | 
@@ -240,7 +245,6 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ## Core Contributors
 
-This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Innovation Officer of [Infinite Red](https://infinite.red/technologies/react-native).
+This list is curated by [Gant Laborde](https://x.com/gantlaborde), Chief Innovation Officer of [Infinite Red](https://infinite.red/reactnative).
 
-This list is maintained by [Sanjeev Yadav](https://github.com/sanjeevyadavIT/)
-- [twitter](https://twitter.com/sanjeevyadavIT)
+To stay up-to-date with the latest React Native news, check out the [React Native Newsletter](https://reactnativenewsletter.com)!
